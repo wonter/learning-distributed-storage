@@ -30,7 +30,7 @@
 
 ### 汇编语言
 
-* [王爽《汇编语言》(第四版)](https://github.com/wonter/learning-distributed-storage/blob/master/sources/ebooks/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B(%E7%AC%AC4%E7%89%88)%20.pdf) - 最好的汇编语言入门书之一，搭建实验环境可以参考我写的[这篇文章](http://blog.wonter.net/posts/2821c29c/)，另外我还整理了一下全书的[检测点答案](http://blog.wonter.net/posts/a63cc4f8/)和[实验答案](https://blog.wonter.net/posts/4e26f09b/)
+* [王爽《汇编语言》(第四版)](https://github.com/wonter/learning-distributed-storage/blob/master/sources/ebooks/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E3%80%8B(%E7%AC%AC4%E7%89%88)%20.pdf) - 最好的汇编语言入门书之一，搭建实验环境可以参考我写的[这篇文章](http://blog.wonter.net/posts/2821c29c/)
 
 ## 分布式存储
 
